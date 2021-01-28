@@ -11,11 +11,6 @@
     color:red;
     
 }
-.notfound404:hover {
-    transform: rotate(20deg);
-}
-    
-
 
 @-webkit-keyframes rotate-center {
     0% {
